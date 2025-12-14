@@ -12,6 +12,7 @@
     <li>
         <!-- This is Knick Knacks, no idea why that's the packageId -->
         <packageId>VaguelySexual.ModPackageId.GoesHere</packageId>
+        <displayName>Knick Knacks</displayName>
         <steamWorkshopUrl>steam://url/CommunityFilePage/3595196942</steamWorkshopUrl>
     </li>
   </modDependencies>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_Vase or SEX_Box or SEX_Shakers or SEX_NapkinHolder or SEX_PictureFrame or SEX_Paper or SEX_Scents"]</xpath>
+    </Operation>
+</Patch>
