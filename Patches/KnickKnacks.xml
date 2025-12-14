@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
     <Operation Class="PatchOperationRemove">
-        <xpath>Defs/ThingDef[defName="SEX_Vase or SEX_Box or SEX_Shakers or SEX_NapkinHolder or SEX_PictureFrame or SEX_Paper or SEX_Scents"]</xpath>
+        <xpath>Defs/ThingDef[defName="SEX_Vase"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_Box"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_Shakers"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_NapkinHolder"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_PictureFrame"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_Paper"]</xpath>
+    </Operation>
+    <Operation Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName="SEX_Scents"]</xpath>
     </Operation>
 </Patch>
