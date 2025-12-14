@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>chesterblack.MOKnickKnacks</packageId>
+  <name>Medieval Overhaul - KnickKnacks</name>
+  <author>chesterblack</author>
+  <description>Patch of the Knick Knacks mod to make the items more suited to a medieval-themed run. Designed to work with Medieval Overhaul but only actually requires Knick Knacks.</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modVersion>1.0</modVersion>
+  <modDependencies>
+    <li>
+        <!-- This is Knick Knacks, no idea why that's the packageId -->
+        <packageId>VaguelySexual.ModPackageId.GoesHere</packageId>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/3595196942</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>VaguelySexual.ModPackageId.GoesHere</li>
+  </loadAfter>
+</ModMetaData>
