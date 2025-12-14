@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ThingDef ParentName="SEX_ClutterBase">
+		<defName>MOKK_Cup</defName>
+		<label>cup</label>
+		<graphicData>
+			<texPath>Things/Building/Clutter/MOKK_Cup</texPath>
+			<graphicClass>Graphic_Random</graphicClass>
+			<drawSize>(1,2)</drawSize>
+		</graphicData>
+		<building>
+			<buildingTags>
+				<li>SEX_Clutter</li>
+				<li>SEX_BedroomClutter</li>
+			</buildingTags>
+		</building>
+	</ThingDef>
+</Defs>
